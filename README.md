@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hola, soy Michel Albert Cárdenas Carrasco  
 
-<!--
-**michix14/michix14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador de software | 🌐 Apasionado por **Arquitectura de software**  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+- 🎯 Experiencia en **Laravel, Springboot y Python**  
+- 📊 Manejo de **PostgreSQL y MySQL**  
+- 🛠️ Conocimiento en **Docker, GraphQL**  
+- 📚 Aprendiendo **Flutter y nuevas tendencias en ciberseguridad**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Proyectos Destacados
+- 🔹 **Agenda Académica SaaS** con multitenancy en Laravel  
+- 🔹 **Dashboard dinámico de KPIs** en Python con GraphQL  
+- 🔹 **Aplicaciones Android** bajo arquitectura MVC y patrones de diseño  
+
+
+## 📫 Cómo contactarme
+- ✉️ Email: [michixcard@gmail.com](mailto:michixcard@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/Michel-Cardenas](https://www.linkedin.com/in/michel-albert-c%C3%A1rdenas-carrasco-51a4627b/)  
+- 🐦 Twitter/X: [@michix04](https://x.com/michix04)  
+
+---
+⭐️ Si te gustan mis proyectos, ¡no olvides dejar una ⭐ en el repo! 😉
