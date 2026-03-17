@@ -18,8 +18,8 @@ Me interesa transformar datos en información útil para la toma de decisiones, 
 
 📈 Dashboards y análisis de KPIs
 
-##Tecnologías y Herramientas
-💻 Desarrollo
+## Tecnologías y Herramientas
+## 💻 Desarrollo
 
 Laravel
 
@@ -27,9 +27,7 @@ Spring Boot
 
 Python
 
-Flutter (aprendiendo)
-
-📊 Análisis de Datos
+## 📊 Análisis de Datos
 
 Python para análisis de datos
 
@@ -39,13 +37,15 @@ Dashboards analíticos
 
 KPIs y métricas de negocio
 
-🗄 Bases de Datos
+## 🗄 Bases de Datos
 
 PostgreSQL
 
 MySQL
 
-⚙️ DevOps & Arquitectura
+SQL Server
+
+## ⚙️ DevOps & Arquitectura
 
 Docker
 
@@ -54,7 +54,6 @@ GraphQL
 Arquitectura de microservicios
 
 Patrones de diseño
-
 
 ## 📫 Cómo contactarme
 - ✉️ Email: [michixcard@gmail.com](mailto:michixcard@gmail.com)  
