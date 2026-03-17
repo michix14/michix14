@@ -1,17 +1,59 @@
 # 👋 Hola, soy Michel Albert Cárdenas Carrasco  
 
-💻 Desarrollador de software | 🌐 Apasionado por **Arquitectura de software**  
+📊 **ANALISTA DE DATOS**|💻 Desarrollador de software | 🌐 Apasionado por **Arquitectura de software**  
 
-## 🚀 Sobre mí
-- 🎯 Experiencia en **Laravel, Springboot y Python**  
-- 📊 Manejo de **PostgreSQL y MySQL**  
-- 🛠️ Conocimiento en **Docker, GraphQL**  
-- 📚 Aprendiendo **Flutter y nuevas tendencias en ciberseguridad**  
+## 🚀Soy analista de datos y desarrollador de software con experiencia en el desarrollo de sistemas, análisis de información y construcción de dashboards analíticos.
 
-## 📂 Proyectos Destacados
-- 🔹 **Agenda Académica SaaS** con multitenancy en Laravel  
-- 🔹 **Dashboard dinámico de KPIs** en Python con GraphQL  
-- 🔹 **Aplicaciones Android** bajo arquitectura MVC y patrones de diseño  
+Me interesa transformar datos en información útil para la toma de decisiones, combinando ingeniería de software, análisis de datos y visualización.**  
+
+## 🔎 Áreas de interés
+
+📊 Análisis de datos y BI
+
+🧠 Machine Learning aplicado a problemas reales
+
+🏗 Arquitectura de software
+
+🔐 Ciberseguridad aplicada al desarrollo
+
+📈 Dashboards y análisis de KPIs
+
+##Tecnologías y Herramientas
+💻 Desarrollo
+
+Laravel
+
+Spring Boot
+
+Python
+
+Flutter (aprendiendo)
+
+📊 Análisis de Datos
+
+Python para análisis de datos
+
+Pandas / NumPy
+
+Dashboards analíticos
+
+KPIs y métricas de negocio
+
+🗄 Bases de Datos
+
+PostgreSQL
+
+MySQL
+
+⚙️ DevOps & Arquitectura
+
+Docker
+
+GraphQL
+
+Arquitectura de microservicios
+
+Patrones de diseño
 
 
 ## 📫 Cómo contactarme
